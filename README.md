@@ -9,7 +9,7 @@ This project implements a rule based expert system for the board game [Le-Havre]
 
 The problem has one unique file [leHavre.clp](https://github.com//DavisuaCoder/LeHavre-ExpertSystem//blob/master/leHavre.clp) that contains the ontology and the rules of the game. This file implements the game's mechanism and the expert's strategy. 
 
-This project solves a simple solution and it's goal is to learn rule-based programming and understand how powerful this tools can be. The [documentation available](https://github.com//DavisuaCoder/LeHavre-ExpertSystem/blob/master/Le-Havre.pdf) is attached to the project, but it is only available in spanish. 
+This project solves a simple solution and it's goal is to learn rule-based programming and understand how powerful this tools can be. The [documentation available](https://github.com//DavisuaCoder/LeHavre-ExpertSystem/blob/master/leHavre.pdf) is attached to the project, but it is only available in spanish. 
 
 ## Participants
 
