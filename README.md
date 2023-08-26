@@ -1,5 +1,5 @@
 # Automated Le Havre Board Game Bot with Expert System AI (Using CLIPS)
-![portrait image]([https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__imagepage/img/jHMOi7QNOsO97jKnZMnNr8QyWUE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6091101.jpg](https://ciudadanomeeple.files.wordpress.com/2019/04/lehavreportada.jpg))
+<center><img src="leHavre.jpg" align="center"/></center>
 
 # About
 
